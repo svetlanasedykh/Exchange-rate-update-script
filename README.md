@@ -21,7 +21,8 @@ The response is written to a Google Sheet and returned as a CSV file with the fo
 
 The script is deployed on PythonAnywhere and can be accessed via a URL request formatted as follows:
 
-https://svetsedykh.eu.pythonanywhere.com/usd_exchange?start_date=2024-04-01&end_date=2024-04-05&token=ACCESS_TOKEN
+`https://svetsedykh.eu.pythonanywhere.com/usd_exchange?start_date=2024-04-01&end_date=2024-04-05&token=ACCESS_TOKEN`
+
 
 **This URL is provided for reference only. Requests made without a valid token will return an error.**
 
